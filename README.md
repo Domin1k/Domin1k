@@ -12,10 +12,8 @@
 
 <a href="https://www.linkedin.com/in/kristian-lyubenov-140a23108/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
- </a>&nbsp;&nbsp;
-<p align='center'>
- <a href='mailto:kristian.lubenov@gmail.com'>kristian.lubenov@gmail.com&nbsp;&nbsp;<img align="left" alt="Gmail" src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+ </a>&nbsp;&nbsp;<a href='mailto:kristian.lubenov@gmail.com'><img align="left" alt="Gmail" src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
 <br />
 <br />
 

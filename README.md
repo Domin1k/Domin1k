@@ -7,7 +7,6 @@
 </p>
 
 - 🌱 I’m currently exploring new things in technology and software architecture.
-- 🥅 Goals: Contribute more to Open Source projects.
 
 ### How to reach me? 
 
@@ -15,7 +14,7 @@
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
  </a>&nbsp;&nbsp;
 <p align='center'>
-  📫 How to reach me: <a href='mailto:kristian.lubenov@gmail.com'>kristian.lubenov@gmail.com&nbsp;&nbsp;<img align="left" alt="Gmail" src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+ <a href='mailto:kristian.lubenov@gmail.com'>kristian.lubenov@gmail.com&nbsp;&nbsp;<img align="left" alt="Gmail" src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 <br />
 <br />
